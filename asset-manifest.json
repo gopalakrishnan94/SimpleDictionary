@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//gopalakrishnan94.github.io/SimpleDictionary/static/css/main.af1c5801.css",
-    "main.js": "//gopalakrishnan94.github.io/SimpleDictionary/static/js/main.cf3423b5.js",
-    "static/js/787.0157ba9a.chunk.js": "//gopalakrishnan94.github.io/SimpleDictionary/static/js/787.0157ba9a.chunk.js",
-    "index.html": "//gopalakrishnan94.github.io/SimpleDictionary/index.html",
-    "main.af1c5801.css.map": "//gopalakrishnan94.github.io/SimpleDictionary/static/css/main.af1c5801.css.map",
-    "main.cf3423b5.js.map": "//gopalakrishnan94.github.io/SimpleDictionary/static/js/main.cf3423b5.js.map",
-    "787.0157ba9a.chunk.js.map": "//gopalakrishnan94.github.io/SimpleDictionary/static/js/787.0157ba9a.chunk.js.map"
+    "main.css": "/SimpleDictionary/static/css/main.af1c5801.css",
+    "main.js": "/SimpleDictionary/static/js/main.54cd0fee.js",
+    "static/js/787.0157ba9a.chunk.js": "/SimpleDictionary/static/js/787.0157ba9a.chunk.js",
+    "index.html": "/SimpleDictionary/index.html",
+    "main.af1c5801.css.map": "/SimpleDictionary/static/css/main.af1c5801.css.map",
+    "main.54cd0fee.js.map": "/SimpleDictionary/static/js/main.54cd0fee.js.map",
+    "787.0157ba9a.chunk.js.map": "/SimpleDictionary/static/js/787.0157ba9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af1c5801.css",
-    "static/js/main.cf3423b5.js"
+    "static/js/main.54cd0fee.js"
   ]
 }
