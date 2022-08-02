@@ -44,10 +44,10 @@ const Dictionary = () => {
     const getData = async () => {
         setLoader(true);
         try {
-            await HTTP.get("api/v2/entries/en/" + search)
+            await HTTP.get("api/v2/entries/en/" + search.trim())
                 .then((res) => {
                     if (res.data && res.data.length > 0) {
-                        console.log(res.data[0])
+                        //console.log(res.data[0])
                         setResults(res.data[0])
                         setMeanings(res.data[0].meanings)
                     }
